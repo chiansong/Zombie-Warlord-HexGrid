@@ -1,0 +1,62 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   Assets/Materials.meta
+#	new file:   Assets/Materials/Basic Shader.shader
+#	new file:   Assets/Materials/Basic Shader.shader.meta
+#	new file:   Assets/Materials/HexMaterial.mat
+#	new file:   Assets/Materials/HexMaterial.mat.meta
+#	new file:   Assets/Materials/VertexColors.shader
+#	new file:   Assets/Materials/VertexColors.shader.meta
+#	new file:   Assets/Prefabs.meta
+#	new file:   Assets/Prefabs/Hex Cell Label.prefab
+#	new file:   Assets/Prefabs/Hex Cell Label.prefab.meta
+#	new file:   Assets/Prefabs/Hex Cell.prefab
+#	new file:   Assets/Prefabs/Hex Cell.prefab.meta
+#	new file:   Assets/Scene.meta
+#	new file:   Assets/Scene/Scene.unity
+#	new file:   Assets/Scene/Scene.unity.meta
+#	new file:   Assets/Scripts.meta
+#	new file:   Assets/Scripts/HexCell.cs
+#	new file:   Assets/Scripts/HexCell.cs.meta
+#	new file:   Assets/Scripts/HexCoordinates.cs
+#	new file:   Assets/Scripts/HexCoordinates.cs.meta
+#	new file:   Assets/Scripts/HexGrid.cs
+#	new file:   Assets/Scripts/HexGrid.cs.meta
+#	new file:   Assets/Scripts/HexMesh.cs
+#	new file:   Assets/Scripts/HexMesh.cs.meta
+#	new file:   Assets/Scripts/HexMetrics.cs
+#	new file:   Assets/Scripts/HexMetrics.cs.meta
+#	new file:   Assets/Shaders.meta
+#	new file:   Assets/Shaders/Basic Shader.shader
+#	new file:   Assets/Shaders/Basic Shader.shader.meta
+#	new file:   Assets/Texture.meta
+#	new file:   Assets/Texture/texture.png
+#	new file:   Assets/Texture/texture.png.meta
+#	new file:   ProjectSettings/AudioManager.asset
+#	new file:   ProjectSettings/ClusterInputManager.asset
+#	new file:   ProjectSettings/DynamicsManager.asset
+#	new file:   ProjectSettings/EditorBuildSettings.asset
+#	new file:   ProjectSettings/EditorSettings.asset
+#	new file:   ProjectSettings/GraphicsSettings.asset
+#	new file:   ProjectSettings/InputManager.asset
+#	new file:   ProjectSettings/NavMeshAreas.asset
+#	new file:   ProjectSettings/NetworkManager.asset
+#	new file:   ProjectSettings/Physics2DSettings.asset
+#	new file:   ProjectSettings/ProjectSettings.asset
+#	new file:   ProjectSettings/ProjectVersion.txt
+#	new file:   ProjectSettings/QualitySettings.asset
+#	new file:   ProjectSettings/TagManager.asset
+#	new file:   ProjectSettings/TimeManager.asset
+#	new file:   ProjectSettings/UnityAdsSettings.asset
+#	new file:   ProjectSettings/UnityConnectSettings.asset
+#	new file:   Zombie Warlord.CSharp.Editor.csproj
+#	new file:   Zombie Warlord.CSharp.csproj
+#	new file:   Zombie Warlord.sln
+#
+
